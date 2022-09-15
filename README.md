@@ -19,8 +19,9 @@ roles_path = roles/
 * `requirements.yml`:
 ```yaml
 - name: ansible-role-template
-  src: git://git@git.oscarmlage.com/ansible/ansible-role-template.git
+  src: ssh://git@git.oscarmlage.com:10022/ansible/ansible-role-template.git
   scm: git
+  version: main
 ```
 * `playbook.yml`
 ```yaml
