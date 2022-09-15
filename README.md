@@ -6,6 +6,8 @@ None.
 
 ## Role Variables
 
+None.
+
 ## Use with Ansible
 
 * ansible.cfg
