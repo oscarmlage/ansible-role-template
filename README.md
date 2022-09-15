@@ -22,7 +22,7 @@ roles_path = roles/
   src: git://git@git.oscarmlage.com/ansible/ansible-role-template.git
   scm: git
 ```
-* playbook.yml
+* `playbook.yml`
 ```yaml
 - hosts: all
   roles:
